@@ -3,35 +3,35 @@ A spreadsheet is a file that contains tabular data – textual and numeric data 
 Database Management System (DBMS), on the other hand, is the software system used to create a database and manipulate the data in it. It is an interface that allows users to query data, manage tables, and perform other data operations in the database. Large companies, organizations, municipal departments and other organizations prefer databases to store large volumes of structured data. Therefore, data volume is the main criterion. Other reasons for using a database are easier control and access to your data, logical organization and/or separation of different types of data,calculating and manipulation of large sets of data,access to data for concurrent users,building a dynamic data-driven app and enhanced data protection.
 
 # Advantages of Databeses
-Large volume of data
-Consistency and integrity of data
-Data redundancy control
-Shareability and multi-access to data
-Data security
-Filtering and querying
-Scalability
-Backup and recovery of data
+- Large volume of data
+- Consistency and integrity of data
+- Data redundancy control
+- Shareability and multi-access to data
+- Data security
+- Filtering and querying
+- Scalability
+- Backup and recovery of data
 
 # Disadvantages of Databases
-Steep learning curve
-Cost of setup and maintenance
-Cost of staff training
-Cost of converting data files into a database
-Cost of querying
+- Steep learning curve
+- Cost of setup and maintenance
+- Cost of staff training
+- Cost of converting data files into a database
+- Cost of querying
 
 # Advantages of spreadsheet
-Free or low cost
-Shallow to medium learning curve
-Data formatting and visualization
-Calculation ability
-Preset function for data manipulation
-Flexibility
+- Free or low cost
+- Shallow to medium learning curve
+- Data formatting and visualization
+- Calculation ability
+- Preset function for data manipulation
+- Flexibility
 
 # Disadvantages of spreadsheet
-Limited shareability
-Security
-Poor performance with large volumes of data
-Scalability
+- Limited shareability
+- Security
+- Poor performance with large volumes of data
+- Scalability
 
 # Questionnaire
 - Do you use a DBMS? If so, which one(s)?
